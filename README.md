@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/95531716/174467119-dd288ee3-bd22-48f7-8f77-f88b1dadf6f9.png)
+![image](https://user-images.githubusercontent.com/95531716/179759754-443db6b3-1aa6-446d-8dfd-974e32506a14.png)
+
 
 
 ### Links
