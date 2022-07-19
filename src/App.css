@@ -227,14 +227,11 @@ left:55px
   color:hsla(235, 19%, 35%, 1);
   
   background: url("../public/images/icon-check.svg")  no-repeat center ,  linear-gradient(135deg, rgba(85, 221, 255, 1) 0%, rgba(192, 88, 243, 1)100%); 
-   transform: scale(0) rotateZ(180deg);
-   transition: all 0.4s cubic-bezier(0.54,0.01,0,1.49);
+   
   
 }
 
-.checkbox_container input[type="checkbox"]:checked + label::before{
-  transform: scale(1) rotateZ(0deg);
-}
+
 
 
 .completed{
